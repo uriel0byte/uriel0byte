@@ -1,25 +1,97 @@
-# ⚡ Supawat H. (uriel0byte)
+# Supawat H. (uriel0byte)
 
-I am an Information and Library Science (ILS) student completing a full-time mandatory internship while pivoting to a SOC Tier 1 / Blue Team role. My background is not in building software; it is in cataloging massive, unstructured datasets and extracting actionable intelligence. I apply those exact mechanics to log/network analysis, digital forensics, OSINT, and threat hunting.
+ILS student, midway through a full-time internship, targeting a 
+Junior Blue Team / SOC Tier 1 role.
 
-### 🛠️ Current Operations
-*   **Daily Hands-On:** Balancing internship hours with evening Linux administration labs in LabEx and TCM Security practicals.
-*   **Weekly Triage:** Executing Tier 1 SOC scenarios on CyberDefenders or TryHackMe.
-*   **Core Focus:** Transitioning theoretical networking concepts into muscle memory through packet analysis and technical report writing.
+My degree is in Information and Library Science. The core skill is 
+extracting actionable intelligence from large, unstructured datasets — 
+which maps directly onto log triage, threat hunting, and OSINT. 
+The domain changed. The methodology did not.
 
-### ⚙️ Technical Stack & Tooling
-*   **Operating Systems:** Linux (Ubuntu, Kali), Windows 11 (Hardening & Forensics)
-*   **Network Analysis:** Wireshark, Nmap
-*   **SOC & Triage:** Incident Response reporting, ServiceDesk-Simulator
-*   **OSINT Methodology:** Cross-Platform Correlation, Lateral Pivoting (Physical to Digital), Advanced Dorking
-*   **OSINT Tools:** OSINT Framework, WhatsMyName, Lullar, awesome-osint, sherlock, blackbird, OPSIS OSINT, Behind the Email, osinthandbook, IntelBase, OSINT.intelligenceonchain, OSINT-BIBLE.
+Currently studying for CompTIA Network+, Security+, and ISC2 CC 
+alongside daily hands-on labs and weekend CTF challenges.
 
-### 📂 Featured Field Manuals
-Check my pinned repositories for raw incident reports and technical documentation.
-*   **[Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups):** Primary portfolio containing detailed incident response reports, PCAP analysis, and CTF walkthroughs.
-*   **[OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations):** Sanitized real-world case studies demonstrating SOCMINT tracking, network correlation, and digital footprint mapping.
-*   **[Window11-Migration](https://github.com/uriel0byte/Window11-Migration):** Complete documentation of an OS migration focusing on security hardening and offline forensic recovery.
+---
 
-### 📡 Communications
-*   **LinkedIn:** [Supawat Huncharoen](www.linkedin.com/in/supawat-h-145371392)
-*   **YouTube:** [@urielbyte](https://www.youtube.com/@urielbyte) | Watch my technical tool demonstrations and walkthroughs.
+## Focus Areas
+
+**Current Strength**
+- SOC Operations & Alert Triage
+- Log Analysis & SIEM (Splunk)
+- OSINT / SOCMINT — primary specialization
+
+**Actively Building**
+- Network & Traffic Analysis
+- DFIR (Digital Forensics & Incident Response)
+- Threat Intelligence & Threat Hunting
+
+---
+
+## Technical Stack
+
+| Category | Tools |
+|---|---|
+| Operating Systems | Linux (Ubuntu, Kali) · Windows 11 |
+| Network Analysis | Wireshark · Nmap |
+| SOC & Triage | Alert triage · IR reporting · ServiceDesk-Simulator |
+| OSINT | Sherlock · Blackbird · WhatsMyName · OSINT Framework · Advanced dorking |
+| SIEM | Splunk (in progress) |
+| Scripting | Bash |
+
+---
+
+## Portfolio
+
+| Repository | What It Demonstrates |
+|---|---|
+| [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
+| [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | Sanitized real-world SOCMINT case studies — digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
+| [HomeNetwork_Audit](https://github.com/uriel0byte/HomeNetwork_Audit) | Full home network security audit with hardening documentation |
+| [Window11-Migration](https://github.com/uriel0byte/Window11-Migration) | OS migration with security hardening and offline forensic recovery |
+| [Bash-Labs](https://github.com/uriel0byte/Bash-Labs) | Linux administration scripting exercises |
+
+---
+
+## Completed Projects
+
+- Windows 11 Filesystem & Boot Configuration Recovery + IR Report
+- Home WiFi Security Audit and Hardening + Report
+- Sanitized People OSINT (SOCMINT) Investigation Report
+- Advent of Cyber 2025 (TryHackMe) + Full Documentation
+- Windows 11 Migration Project + Report
+- Server Performance Stats (Bash Script)
+- Dummy Systemd Service
+- OverTheWire Bandit
+
+---
+
+## Certifications
+
+**In Progress**
+- CompTIA Network+
+- CompTIA Security+
+- ISC2 Certified in Cybersecurity (CC)
+
+**Completed**
+- Cybersecurity for General Professionals — Huawei & AIS Academy
+- Advent of Cyber 2025 — TryHackMe
+- Linux Unhatched — Cisco NetAcad
+
+---
+
+## Lab Profiles
+
+[HackTheBox](https://app.hackthebox.com/profile/#2566537) · 
+[TryHackMe](https://tryhackme.com/p/poseidon.smash) · 
+[CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) · 
+[LabEx](https://labex.io/users/uriel0byte-11746032) · 
+[PicoCTF](https://play.picoctf.org/users/urielbyte) · 
+[Credly](https://www.credly.com/users/supawat-huncharoen)
+
+---
+
+## Contact
+
+**LinkedIn:** [Supawat H.](https://www.linkedin.com/in/supawat-h-145371392)  
+**YouTube:** [@urielbyte](https://www.youtube.com/@urielbyte) — published 
+technical walkthroughs demonstrating tool usage and methodology
