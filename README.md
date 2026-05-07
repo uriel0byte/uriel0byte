@@ -86,6 +86,8 @@ alongside daily hands-on labs and weekend CTF challenges.
 [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) · 
 [LabEx](https://labex.io/users/uriel0byte-11746032) · 
 [PicoCTF](https://play.picoctf.org/users/urielbyte) · 
+[LetsDefend](https://app.letsdefend.io/user/urielbyte) · 
+[SecurityBlueTeamLabs](https://blueteamlabs.online/home/user/82d77b7cbeca1bbfed8b49)
 
 ---
 
