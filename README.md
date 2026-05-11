@@ -70,7 +70,7 @@ alongside daily hands-on labs and weekend CTF challenges.
 **In Progress**
 - CompTIA Network+
 - CompTIA Security+
-- ISC2 Certified in Cybersecurity (CC)
+- ISC2 Certified in Cybersecurity (CC) | Exam Date: November 30, 2026
 
 **Completed**
 - Cybersecurity for General Professionals — Huawei & AIS Academy
