@@ -44,6 +44,7 @@ alongside daily hands-on labs and weekend CTF challenges.
 
 | Repository | What It Demonstrates |
 |---|---|
+| [secure-cloud-ztna](https://github.com/uriel0byte/secure-cloud-ztna) | GCP Linux server hardened into a Zero Trust architecture — cryptographic auth, ICMP blackholing, Tailscale VPN pivot, automated backups, and full internal audit with verified telemetry |
 | [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
 | [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | Sanitized real-world SOCMINT case studies — digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
 | [HomeNetwork_Audit](https://github.com/uriel0byte/HomeNetwork_Audit) | Full home network security audit with hardening documentation |
@@ -54,6 +55,7 @@ alongside daily hands-on labs and weekend CTF challenges.
 
 ## Completed Projects
 
+- GCP Zero Trust Network Access (ZTNA) Deployment + Full Report
 - Windows 11 Filesystem & Boot Configuration Recovery + IR Report
 - Home WiFi Security Audit and Hardening + Report
 - Sanitized People OSINT (SOCMINT) Investigation Report
