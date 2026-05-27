@@ -71,11 +71,13 @@ alongside daily hands-on labs and weekend CTF challenges.
 
 **In Progress**
 - ISC2 Certified in Cybersecurity (CC) | Exam Date: November 30, 2026
-- CompTIA Network+
-- CompTIA Security+
 - Linux Essentials - Cisco NetAcad 
 - TCM Security Fundamentals
 - Splunk Free Training
+- CyberWarFare Labs | Blue Team Fundamentals [BTF]
+- CyberWarFare Labs | Cyber Defense Analyst [CCDA]
+- CompTIA Network+ (Unaffordable)
+- CompTIA Security+ (Unaffordable)
 
 **Completed**
 - Cybersecurity for General Professionals — Huawei & AIS Academy
