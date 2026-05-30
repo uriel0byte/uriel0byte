@@ -89,7 +89,7 @@ alongside daily hands-on labs and weekend CTF challenges.
 ## Lab Profiles
 
 [HackTheBox](https://profile.hackthebox.com/profile/019e7a4a-2e3a-723c-b2e9-c3f4152411a4) · 
-[TryHackMe](https://tryhackme.com/p/poseidon.smash) · 
+[TryHackMe](https://tryhackme.com/p/urielbyte) · 
 [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) · 
 [LabEx](https://labex.io/users/uriel0byte-11746032) · 
 [PicoCTF/CyLab](https://learn.cylabacademy.org/users/urielbyte) · 
