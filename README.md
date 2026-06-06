@@ -70,7 +70,7 @@ alongside daily hands-on labs and weekend CTF challenges.
 ## Certifications
 
 **In Progress**
-- ISC2 Certified in Cybersecurity (CC) | Exam Date: August 27, 2026 
+- ISC2 Certified in Cybersecurity (CC) | Exam Date: August, 2026 
 - Linux Essentials - Cisco NetAcad 
 - TCM Security Fundamentals
 - Splunk Free Training
