@@ -70,19 +70,23 @@ alongside daily hands-on labs and weekend CTF challenges.
 ## Certifications
 
 **In Progress**
-- ISC2 Certified in Cybersecurity (CC) | Exam Date: August, 2026 
-- Linux Essentials - Cisco NetAcad 
-- TCM Security Fundamentals
-- Splunk Free Training
 - CyberWarFare Labs | Blue Team Fundamentals [BTF]
 - CyberWarFare Labs | Cyber Defense Analyst [CCDA]
 - CompTIA Network+ (Unaffordable)
 - CompTIA Security+ (Unaffordable)
 
 **Completed**
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Linux Essentials — Cisco NetAcad
+- Linux Unhatched — Cisco NetAcad
+- TCM Practical Security Fundamentals
+- Career Switch to Cybersecurity — LetsDefend
+- Cybersecurity for Students Learning Path — LetsDefend
 - Cybersecurity for General Professionals — Huawei & AIS Academy
 - Advent of Cyber 2025 — TryHackMe
-- Linux Unhatched — Cisco NetAcad
+- Ghost Track — BreachLab
+- Intro to Splunk
 
 ---
 
