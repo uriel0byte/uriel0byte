@@ -1,15 +1,10 @@
 # Supawat H. (uriel0byte)
 
-ILS student, midway through a full-time internship, targeting a 
-Junior Blue Team / SOC Tier 1 role.
+ILS student graduating in March 2027, targeting a Junior Blue Team / SOC Tier 1 role or a junior IAM analyst role.
 
-My degree is in Information and Library Science. The core skill is 
-extracting actionable intelligence from large, unstructured datasets — 
-which maps directly onto log triage, threat hunting, and OSINT. 
-The domain changed. The methodology did not.
+My degree is in Information and Library Science. The core skill is extracting actionable intelligence from large, unstructured datasets, which maps directly onto log triage, threat hunting, and OSINT. The domain changed. The methodology did not.
 
-Currently studying for CompTIA Network+, Security+, and ISC2 CC 
-alongside daily hands-on labs and weekend CTF challenges.
+Currently working through the Centri Blue Team Junior Analyst pathway and two CyberWarFare Labs defender courses, alongside weekly LetsDefend alert investigations. Next build: an Entra ID and Microsoft Sentinel identity security lab.
 
 ---
 
@@ -17,10 +12,11 @@ alongside daily hands-on labs and weekend CTF challenges.
 
 **Current Strength**
 - SOC Operations & Alert Triage
-- Log Analysis & SIEM (Splunk)
-- OSINT / SOCMINT — primary specialization
+- Log Analysis & SIEM (Splunk, guided labs)
+- OSINT / SOCMINT
 
 **Actively Building**
+- Identity & Access Management (SC-900 certified, lab planned)
 - Network & Traffic Analysis
 - DFIR (Digital Forensics & Incident Response)
 - Threat Intelligence & Threat Hunting
@@ -33,9 +29,10 @@ alongside daily hands-on labs and weekend CTF challenges.
 |---|---|
 | Operating Systems | Linux (Ubuntu, Kali) · Windows 11 |
 | Network Analysis | Wireshark · Nmap |
-| SOC & Triage | Alert triage · IR reporting · ServiceDesk-Simulator |
+| SOC & Triage | Alert triage · IR reporting · LetsDefend (SIEM, EDR, email security) · ServiceDesk-Simulator |
 | OSINT | Sherlock · Blackbird · WhatsMyName · OSINT Framework · Advanced dorking |
-| SIEM | Splunk (in progress) |
+| SIEM | Splunk (intro course and guided labs) · Microsoft Sentinel (planned) |
+| Identity | Microsoft Entra ID (lab planned) |
 | Scripting | Bash |
 
 ---
@@ -44,9 +41,10 @@ alongside daily hands-on labs and weekend CTF challenges.
 
 | Repository | What It Demonstrates |
 |---|---|
-| [secure-cloud-ztna](https://github.com/uriel0byte/secure-cloud-ztna) | GCP Linux server hardened into a Zero Trust architecture — cryptographic auth, ICMP blackholing, Tailscale VPN pivot, automated backups, and full internal audit with verified telemetry |
-| [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
-| [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | Sanitized real-world SOCMINT case studies — digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
+| [entra-identity-security-lab] | |
+| [secure-cloud-ztna](https://github.com/uriel0byte/secure-cloud-ztna) | GCP Linux server hardened into a Zero Trust architecture: cryptographic auth, ICMP blackholing, Tailscale VPN pivot, automated backups, and a full internal audit with verified telemetry |
+| [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | 7 LetsDefend SOC alert investigations (brute force, phishing, malware, malicious macro) with MITRE ATT&CK mapping, plus IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
+| [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | Sanitized real-world SOCMINT case studies: digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
 | [HomeNetwork_Audit](https://github.com/uriel0byte/HomeNetwork_Audit) | Full home network security audit with hardening documentation |
 | [Window11-Migration](https://github.com/uriel0byte/Window11-Migration) | OS migration with security hardening and offline forensic recovery |
 | [Bash-Labs](https://github.com/uriel0byte/Bash-Labs) | Linux administration scripting exercises |
@@ -56,6 +54,7 @@ alongside daily hands-on labs and weekend CTF challenges.
 ## Completed Projects
 
 - GCP Zero Trust Network Access (ZTNA) Deployment + Full Report
+- LetsDefend SOC Alert Investigations (11 reports)
 - Windows 11 Filesystem & Boot Configuration Recovery + IR Report
 - Home WiFi Security Audit and Hardening + Report
 - Sanitized People OSINT (SOCMINT) Investigation Report
@@ -70,22 +69,25 @@ alongside daily hands-on labs and weekend CTF challenges.
 ## Certifications
 
 **In Progress**
+- Centri (formerly Security Blue Team) | Blue Team Junior Analyst [BTJA]
 - CyberWarFare Labs | Blue Team Fundamentals [BTF]
 - CyberWarFare Labs | Cyber Defense Analyst [CCDA]
-- CompTIA Network+ (Unaffordable)
-- CompTIA Security+ (Unaffordable)
+
+**Planned**
+- CompTIA Network+
+- CompTIA Security+
 
 **Completed**
 - ISC2 Certified in Cybersecurity (CC)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- Linux Essentials — Cisco NetAcad
-- Linux Unhatched — Cisco NetAcad
+- Linux Essentials (Cisco NetAcad)
+- Linux Unhatched (Cisco NetAcad)
 - TCM Practical Security Fundamentals
-- Career Switch to Cybersecurity — LetsDefend
-- Cybersecurity for Students Learning Path — LetsDefend
-- Cybersecurity for General Professionals — Huawei & AIS Academy
-- Advent of Cyber 2025 — TryHackMe
-- Ghost Track — BreachLab
+- Career Switch to Cybersecurity (LetsDefend)
+- Cybersecurity for Students Learning Path (LetsDefend)
+- Cybersecurity for General Professionals (Huawei & AIS Academy)
+- Advent of Cyber 2025 (TryHackMe)
+- Ghost Track (BreachLab)
 - Intro to Splunk
 
 ---
@@ -105,5 +107,4 @@ alongside daily hands-on labs and weekend CTF challenges.
 ## Contact
 
 **LinkedIn:** [Supawat H.](https://www.linkedin.com/in/supawat-h-145371392)  
-**YouTube:** [@urielbyte](https://www.youtube.com/@urielbyte) — published 
-technical walkthroughs demonstrating tool usage and methodology
+**YouTube:** [@urielbyte](https://www.youtube.com/@urielbyte): published technical walkthroughs demonstrating tool usage and methodology
