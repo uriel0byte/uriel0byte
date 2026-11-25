@@ -11,15 +11,15 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 ## Focus Areas
 
 **Current Strength**
-- SOC Operations & Alert Triage
-- Log Analysis & SIEM (Splunk, guided labs)
-- OSINT / SOCMINT
+- SOC Operations & Alert Triage (11 LetsDefend investigations)
+- Log Analysis & SIEM triage (LetsDefend SIEM and EDR)
 
 **Actively Building**
 - Identity & Access Management (SC-900 certified, lab planned)
 - Network & Traffic Analysis
 - DFIR (Digital Forensics & Incident Response)
 - Threat Intelligence & Threat Hunting
+- OSINT / SOCMINT (one case study so far)
 
 ---
 
@@ -29,9 +29,9 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 |---|---|
 | Operating Systems | Linux (Ubuntu, Kali) · Windows 11 |
 | Network Analysis | Wireshark · Nmap |
-| SOC & Triage | Alert triage · IR reporting · LetsDefend (SIEM, EDR, email security) · ServiceDesk-Simulator |
+| SOC & Triage | Alert triage · IR reporting · LetsDefend (SIEM, EDR, email security) |
 | OSINT | Sherlock · Blackbird · WhatsMyName · OSINT Framework · Advanced dorking |
-| SIEM | Splunk (intro course and guided labs) · Microsoft Sentinel (planned) |
+| SIEM | LetsDefend SIEM · Splunk (fundamentals course) · Microsoft Sentinel (planned) |
 | Identity | Microsoft Entra ID (lab planned) |
 | Scripting | Bash |
 
@@ -44,7 +44,7 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 | [entra-identity-security-lab] | |
 | [secure-cloud-ztna](https://github.com/uriel0byte/secure-cloud-ztna) | GCP Linux server hardened into a Zero Trust architecture: cryptographic auth, ICMP blackholing, Tailscale VPN pivot, automated backups, and a full internal audit with verified telemetry |
 | [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | 7 LetsDefend SOC alert investigations (brute force, phishing, malware, malicious macro) with MITRE ATT&CK mapping, plus IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
-| [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | Sanitized real-world SOCMINT case studies: digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
+| [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | A sanitized SOCMINT case study (one report so far): digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
 | [HomeNetwork_Audit](https://github.com/uriel0byte/HomeNetwork_Audit) | Full home network security audit with hardening documentation |
 | [Window11-Migration](https://github.com/uriel0byte/Window11-Migration) | OS migration with security hardening and offline forensic recovery |
 | [Bash-Labs](https://github.com/uriel0byte/Bash-Labs) | Linux administration scripting exercises |
@@ -54,7 +54,7 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 ## Completed Projects
 
 - GCP Zero Trust Network Access (ZTNA) Deployment + Full Report
-- LetsDefend SOC Alert Investigations (11 reports)
+- LetsDefend SOC Alert Investigations (7 reports)
 - Windows 11 Filesystem & Boot Configuration Recovery + IR Report
 - Home WiFi Security Audit and Hardening + Report
 - Sanitized People OSINT (SOCMINT) Investigation Report
