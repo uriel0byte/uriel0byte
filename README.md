@@ -16,7 +16,7 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 
 **Actively Building**
 - Identity & Access Management (SC-900 certified, lab planned)
-- Network & Traffic Analysis (Suricata + Zeek + RITA lab planned)
+- Network & Traffic Analysis (Wireshark, tcpdump, Suricata + Zeek + RITA lab planned)
 - DFIR (Digital Forensics & Incident Response)
 - Threat Intelligence & Threat Hunting
 - OSINT / SOCMINT (one case study so far)
