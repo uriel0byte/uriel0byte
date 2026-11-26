@@ -41,7 +41,6 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 
 | Repository | What It Demonstrates |
 |---|---|
-| [entra-identity-security-lab] | |
 | [secure-cloud-ztna](https://github.com/uriel0byte/secure-cloud-ztna) | GCP Linux server hardened into a Zero Trust architecture: cryptographic auth, ICMP blackholing, Tailscale VPN pivot, automated backups, and a full internal audit with verified telemetry |
 | [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | 7 LetsDefend SOC alert investigations (brute force, phishing, malware, malicious macro) with MITRE ATT&CK mapping, plus IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
 | [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | A sanitized SOCMINT case study (one report so far): digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
@@ -54,7 +53,7 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 ## Completed Projects
 
 - GCP Zero Trust Network Access (ZTNA) Deployment + Full Report
-- LetsDefend SOC Alert Investigations (7 reports)
+- LetsDefend SOC Alert Investigations (11 reports)
 - Windows 11 Filesystem & Boot Configuration Recovery + IR Report
 - Home WiFi Security Audit and Hardening + Report
 - Sanitized People OSINT (SOCMINT) Investigation Report
