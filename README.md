@@ -12,14 +12,14 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 
 **Current Strength**
 - SOC Operations & Alert Triage (11 LetsDefend investigations)
-- Log Analysis & SIEM triage (LetsDefend SIEM and EDR, Wazuh lab planned)
+- Log Analysis & SIEM triage (LetsDefend SIEM and EDR)
 
 **Actively Building**
 - Identity & Access Management (SC-900 certified, lab planned)
 - Network & Traffic Analysis (Wireshark, tcpdump, Suricata + Zeek + RITA lab planned)
 - DFIR (Digital Forensics & Incident Response)
 - Threat Intelligence & Threat Hunting
-- OSINT / SOCMINT (one case study so far)
+- OSINT / SOCMINT (one case study so far, Trace Labs)
 
 ---
 
@@ -42,7 +42,6 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 | Repository | What It Demonstrates |
 |---|---|
 | [entra-identity-security-lab] | |
-| [wazuh-siem-lab] | |
 | [secure-cloud-ztna](https://github.com/uriel0byte/secure-cloud-ztna) | GCP Linux server hardened into a Zero Trust architecture: cryptographic auth, ICMP blackholing, Tailscale VPN pivot, automated backups, and a full internal audit with verified telemetry |
 | [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | 7 LetsDefend SOC alert investigations (brute force, phishing, malware, malicious macro) with MITRE ATT&CK mapping, plus IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
 | [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | A sanitized SOCMINT case study (one report so far): digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
