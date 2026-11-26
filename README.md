@@ -1,10 +1,10 @@
 # Supawat H. (uriel0byte)
 
-ILS student graduating in March 2027, targeting a Junior Blue Team / SOC Tier 1 role or a junior IAM analyst role.
+ILS student graduating in March 2027, targeting a Junior Blue Team / SOC L1, junior IAM analyst role and IT support / service desk roles. 
 
 My degree is in Information and Library Science. The core skill is extracting actionable intelligence from large, unstructured datasets, which maps directly onto log triage, threat hunting, and OSINT. The domain changed. The methodology did not.
 
-Currently working through the Centri Blue Team Junior Analyst pathway and two CyberWarFare Labs defender courses, alongside weekly LetsDefend alert investigations. Next build: an Entra ID and Microsoft Sentinel identity security lab.
+Currently working through the Centri Blue Team Junior Analyst pathway and two CyberWarFare Labs defender courses, alongside Entra and Sentinel lab. Next build: an Entra ID and Microsoft Sentinel identity security lab.
 
 ---
 
@@ -42,7 +42,7 @@ Currently working through the Centri Blue Team Junior Analyst pathway and two Cy
 | Repository | What It Demonstrates |
 |---|---|
 | [secure-cloud-ztna](https://github.com/uriel0byte/secure-cloud-ztna) | GCP Linux server hardened into a Zero Trust architecture: cryptographic auth, ICMP blackholing, Tailscale VPN pivot, automated backups, and a full internal audit with verified telemetry |
-| [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | 7 LetsDefend SOC alert investigations (brute force, phishing, malware, malicious macro) with MITRE ATT&CK mapping, plus IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
+| [Cybersecurity-Writeups](https://github.com/uriel0byte/Cybersecurity-Writeups) | 11 LetsDefend SOC alert investigations (brute force, phishing, malware, malicious macro) with MITRE ATT&CK mapping, plus IR reports, PCAP analysis, and CTF walkthroughs across CyberDefenders, TryHackMe, HackTheBox, and picoCTF |
 | [OSINT-Investigations](https://github.com/uriel0byte/OSINT-Investigations) | A sanitized SOCMINT case study (one report so far): digital footprint mapping, cross-platform correlation, physical-to-digital pivoting |
 | [HomeNetwork_Audit](https://github.com/uriel0byte/HomeNetwork_Audit) | Full home network security audit with hardening documentation |
 | [Window11-Migration](https://github.com/uriel0byte/Window11-Migration) | OS migration with security hardening and offline forensic recovery |
